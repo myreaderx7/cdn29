@@ -1,0 +1,860 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd ">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+ 
+<title>The New Journalist Is An Information Startup</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<link rel="alternate" hreflang="it" href="http://it.masternewmedia.org/nuovo-giornalismo-information-startup" />
+<meta name="author" content="Robin Good" />
+<meta name="robots" content="all" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="description" content="At the crossroad of journalism and entrepreneurship sits a new emerging profession, made up in good part by the skills of the classic journalist, in part by those of the researcher, of the librarian and of the new emerging content " />
+<BASE href="https://www.masternewmedia.org/"> 
+
+<meta property="og:type" content="public_figure" />
+<meta property="og:title" content="The New Journalist Is An Information Startup" />
+<meta property="og:url" content="https://www.masternewmedia.org/journalism-information-startup/" />
+<meta property="og:site_name" content="Robin Good&#039;s Master New Media" />
+<meta property="fb:admins" content="RobinGood," />
+
+
+<link rel="canonical" href="https://www.masternewmedia.org/journalism-information-startup/" />
+<link rel="Stylesheet" href="https://www.masternewmedia.org/_includes/gz/article_css.gz" type="text/css" media="screen" />
+<script type="text/javascript" src="https://www.masternewmedia.org/_includes/gzjs/js_v7.gz" async="async"></script>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+<script>(function() {
+ var _fbq = window._fbq || (window._fbq = []);
+ if (!_fbq.loaded) {
+   var fbds = document.createElement('script');
+   fbds.async = true;
+   fbds.src = '//connect.facebook.net/en_US/fbds.js';
+   var s = document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(fbds, s);
+   _fbq.loaded = true;
+ }
+ _fbq.push(['addPixelId', '838750076142703']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=838750076142703&amp;ev=PixelInitialized" /></noscript>
+	
+</head>
+<body topmargin=0 leftmargin=0 rightmargin=0 onload="WinMod();">
+
+<script type="text/javascript">
+
+$(window).resize(function () { WinMod();});
+function WinMod(){
+	
+	
+	var pW=pageWidth(); 
+	
+	if (pW < 1137){
+		document.getElementById("leftV3").style.left = "10px";
+		document.getElementById("rightV3").style.left = "870px";
+		document.getElementById("encloser").style.width = "1090px";
+		document.getElementById("encloser").style.left = "275px";
+
+		
+		}else{
+		document.getElementById("leftV3").style.left = "10px";
+		document.getElementById("encloser").style.width = "100%";
+		document.getElementById("rightV3").style.left = "";
+		document.getElementById("rightV3").style.right = "10px";
+
+		
+	}
+
+var NewScriptA=document.createElement('script');
+NewScriptA.src="https://www.masternewmedia.org/_includes/gzjs/MNMV3.gz";
+document.body.appendChild(NewScriptA);
+
+	
+	
+document.getElementById('#fbbox').innerHTML='<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMasterNewMedia%2F149986695013708&amp;width=160&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=420" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:420px;" allowTransparency="true"></iframe>';
+	
+	
+var NewScript2=document.createElement('script');
+NewScript2.src="https://robingood.disqus.com/embed.js";
+document.body.appendChild(NewScript2);	
+
+var NewScript5=document.createElement('script');
+NewScript5.src="https://edge.quantserve.com/quant.js";
+document.body.appendChild(NewScript5);
+
+var NewScript6=document.createElement('script');
+NewScript6.src="https://connect.facebook.net/en_US/all.js#xfbml=1";
+document.body.appendChild(NewScript6);
+
+
+
+}
+function pageWidth() {return window.innerWidth != null? window.innerWidth: document.body != null? document.body.clientWidth:null;}
+
+
+
+			
+function load_file() {
+
+document.body.style.cursor='wait';
+
+var content_page=null;
+var content_page=null;try
+ {
+ // Firefox, Opera 8.0+, Safari
+ content_page=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ // Internet Explorer
+ try
+  {
+  content_page=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  content_page=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+
+
+var sURL = "https://www.masternewmedia.org/_includes/related_V5/16862.htm";
+content_page.open( "GET", sURL, false );
+content_page.send(null);
+document.body.style.cursor='auto';
+
+document.getElementById('relatedbox').innerHTML=content_page.responseText;
+}
+			
+			
+
+
+</script>
+
+
+<a href="https://www.masternewmedia.org/"><span style="position:absolute;top:30px;left:0px;height:110px;width:105px;background-color:transparent;z-index:900;"></span></a>
+<div class="headerTopline"> <a href="https://www.masternewmedia.org" border="0"><div class="headerLink"> MasterNewMedia</div></a></div>
+<div class="headerFrame"> 
+
+<div class="badgeCoverOuter">
+<div class="badgeCoverInner"><div class="g-person" data-width="273" data-href="//plus.google.com/102342575415454158358" data-theme="dark" data-layout="landscape" data-rel="author"></div></div></div>
+
+<div class="headerBanner"> 
+
+&nbsp;
+
+
+
+</div>
+
+<!-- SiteSearch Google -->
+<form method="get" action="https://www.masternewmedia.org/newsearchEN.html" name="q">
+
+<div class="headerSearch">
+<img src="https://www.masternewmedia.org/images/tabs/gray_search_box2.gif">
+<input type="text" class="searchBoxTop" name="q" id="q" maxlength="255" onfocus="if(this.value=='Google Search') this.value='';" onblur="if(this.value=='') this.value='Google Search';" value="Google Search" />
+<a class="searchButtonTop" name="sa" href="javascript:document.q.submit();"><img src="https://www.masternewmedia.org/images/tabs/gray_search_button.gif" width="63" height="20" border="0"></a>
+</div>
+<input name="domains" value="masternewmedia.org" type="hidden"><input name="client" value="pub-1185284300475723" type="hidden">
+<input name="forid" value="1" type="hidden"><input name="channel" value="3547147635" type="hidden">
+<input name="ie" value="ISO-8859-1" type="hidden"><input name="oe" value="ISO-8859-1" type="hidden">
+<input name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:000000;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:150;L:https://www.masternewmedia.org/images/rg_small_logo.jpg;S:https://;FORID:1;" type="hidden">
+<input name="hl" value="en" type="hidden"><input name="sitesearch" value="masternewmedia.org" type="hidden">
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<!-- SiteSearch Google -->
+
+<script type="text/javascript">
+  (function() {
+    var cx = '008587533012136122848:_earlc6oine';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+</div>
+<div class="headerLowline"><div class="headerText"> Curated by: Luigi Canali De Rossi</div> </div>
+
+
+<div style="width:99%;clear:both;"> &nbsp; </div>
+
+
+
+
+
+			<!-- Floating box stops here -->
+<script type="text/javascript">
+winWidth=document.all?document.body.clientWidth:window.innerWidth; 
+if (winWidth < 1024) { document.write('<style>body{width:1024px;}#encloser{width:1024px;}#wrapper{width:1024px;}</style>'); }
+</script>
+<br /><br />
+<div align=center id="encloser">
+<div align=center id="main">
+
+
+<div id="at_encloser">
+<div id="ar_date"><nobr>Tuesday, April 15, 2014</nobr></div>
+<div class="print3b"><table style="float:right"><tr><td><li id="imagePR" class="sprite"><a href="javascript:void();" OnCLick="javascript:window.print();" OnMouseOver="this.className='cursorimg'"></a></li></td><td><a class="cursor" href="javascript:void();" OnCLick="javascript:window.print();">Print this article</a><nobr>| <a class="languages" title="italiano" href="http://it.masternewmedia.org/nuovo-giornalismo-information-startup">IT</a></nobr/></td></tr></table><br /></div>
+<div id="abovetitle"></div>
+</div> 
+<h1 class="main_title"><!-- google_ad_section_start -->The New Journalist Is An Information Startup<!-- google_ad_section_end --></h1>
+
+
+<div class="full_width">Sponsored Links</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EN AR 1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-1185284300475723"
+     data-ad-slot="3304162343"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<div id="soc" style="padding:25px 0 0 0;">
+<ul>
+<li style="width:76px;">
+<!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-size="medium"></div>
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</li>
+
+<li style="width:85px;">
+<div id="fb-root"></div><fb:like send="false" layout="button_count" width="50" show_faces="true" font=""></fb:like>
+</li>
+
+<li style="width:100px;">
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.masternewmedia.org/journalism-information-startup/">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</li>
+<script type="text/javascript">
+  jQuery.getScript('https://platform.twitter.com/widgets.js', function() { TW.init({status: true, cookie: true});  }); 
+</script>
+
+<li style="width:107px;">
+<script type="text/javascript">
+  jQuery.getScript('https://platform.linkedin.com/in.js', function() { LNI.init({status: true, cookie: true});  }); 
+</script>
+<script type="IN/Share" data-url="https://www.masternewmedia.org/journalism-information-startup/" data-counter="right" async="async"></script>
+</li>
+
+<li style="width:100px;padding-top:2px;">
+<!-- Place this tag where you want the su badge to render -->
+<su:badge layout="3"></su:badge>
+<!-- Place this snippet wherever appropriate -->
+<script type="text/javascript">
+  (function() {
+    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+  })();
+</script>
+</li>
+</ul>
+</div>
+
+<div class="full_width"><p><strong>At the crossroad</strong> of journalism and entrepreneurship sits a new emerging profession, made up in good part by the skills of the classic journalist, in part by those of the researcher, of the librarian and of <a target="_blank" href="http://www.masternewmedia.org/content-curation-why-is-the-content-curator-the-key-emerging-online-editorial-role-of-the-future/">the new emerging content curator</a> mixed in with those of the capable independent digital entrepreneur.</p>
+<p><img alt="new-journalist-info-startup_ss_112720942_350_1.jpg" src="http://d3sdoylwcs36el.cloudfront.net/new-journalist-info-startup_ss_112720942_350_1.jpg" width="350" height="460" /><br />
+<span class="photocredit">Photo credit: <a target="_blank" href="http://www.shutterstock.com/pic-112720942/stock-vector-digital-world.html">Digital world by Shutterstock</a></span></p>
+<p><strong>The information-entrepreneur</strong> is someone interested in creating ethical and highly reputable commercial services, tools and organizations that can augment, satisfy and fulfill humans deep or specialty interests within a specific information area.<br />
+Information startups have little or nothing to do with what is generally referred to as <a target="_blank" href="http://en.wikipedia.org/wiki/Infopreneur">info-preneurship</a>. The infopreneur has become the stereotype for who sells informations (of whatever quality level) to make money online. Thus, the field, the people who promote it and the information you can find online by searching for this topic, is not of high quality and is specifically driven by a "<em>sell as much as possible, no matter how you do it</em>", making-money attitude.</p>
+<p>But info-marketers and info-preneurs, may have been unaware precursors of a new breed of very serious information entrepreneurs that are eager to develop and put together useful and very targeted professional information services.</p>
+<p>Here all the details:</p>
+<p><!-- FA --></p>
+</div>
+
+<div id="gads_middle" class="gadsMiddle">
+<!-- FM Medium Rectangle 2 Zone -->
+<script type='text/javascript' src='https://static.fmpub.net/zone/6387'></script>
+<!-- FM Medium Rectangle 2 Zone -->
+</div>
+
+
+<div class="full_width"><a name="more"></a>
+<p>&nbsp;</p><br /><br /><br />
+<h2>Information Entrepreneurs</h2></p>
+<p><img alt="new-journalist-info-entrepreneurs_ss_165692771_300.jpg" src="http://d3sdoylwcs36el.cloudfront.net/new-journalist-info-entrepreneurs_ss_165692771_300.jpg" width="300" height="210" /></p>
+<p><strong>Most people think</strong> of a startup as a new digital venture, often financed by venture capital, which, by way of custom engineered software develops a service, solution or product to be offered and subscribed to / sold online.</p>
+<p>And, indeed, the vast majority of today startups match pretty closely the above definition. </p>
+<p><strong>Tech startups are</strong> often built on small teams, made up mostly by tech people with refined coding, programming, interface design and prototyping skills.</p>
+<p>It's these startuppers ability, their already acquired coding skills and their awareness of what can be potentially done, that motivates them to dive into creating a startup. They are aware that they have enough know-how, skills and personal confidence to create "<em>something</em>" that works across all computers and devices. </p>
+<p>But what to do with these assets is much less clear to these startups, as they are driven more by profit opportunities than by a vision of what they want to do, realize or change in the world around them.</p>
+<p><strong>These startups are not</strong> originally motivated by a specific idea or mission they want to realize. They are more intrigued by the idea of building "<em>something</em>" and getting as much money as possible for doing it, in the shortest possible time. </p>
+<p>On the other hand most entrepreneurs who have instead little coding and programming abilities feel that their competence and skills are not adequate to jump onto the startuppers train and to build a digital service or product that can be sustainable.</p>
+<p><strong>But is it really so?</strong></p>
+<p>Do I really need to know how to code to build a successful digital startup?</p>
+<p>Are there other types of startups that could be created, not based exclusively on the ability to code programs or algorithms but rather on the value that can be created by organizing in very effective ways, large swaths of information within very specific interest areas, and for very targeted groups of people and applications?</p>
+<p>My answer is yes. </p>
+<p><strong>But differently than</strong> "<em>tech startups</em>", who generally focus and see themselves as coders of new apps and services, these other startups are conceived with a specific goal in mind: the gathering and the organizing of information in a very specific area or for a very specific application / tribe (group of people with a common interest).  </p>
+<p>For ease of communication, and to have a way to reference them separately from the typical tech startup, I would like to reference these new companies as "<em>info startups</em>". </p>
+<p>&nbsp;</p><br /><br /><br />
+<h2>What Is Exactly an Information Startup</h2></p>
+<p><img alt="new-journalist-info-startup-xray_ss_76075978_280.jpg" src="http://d3sdoylwcs36el.cloudfront.net/new-journalist-info-startup-xray_ss_76075978_280.jpg" width="280" height="220" /></p>
+<p><strong>An information startup is</strong> a developing new company focused on creating unique value by organizing specialty, sector-specific information for a specific audience or application.</p>
+<p>That is, instead of being a company concentrated on creating a physical tool, a device, a program, web app or software application designed to help you do something, an information-startup is a new company focusing on organizing a specific set of information resources into a service that can save time and money to those using it.</p>
+<p>Some examples of what an information-startup could effectively do:</p>
+<p><br /><ol><li><strong>Evaluate</strong> and compare different products / services. Help to find best, most fitting solution for a specific problem / interest / issue</li></p>
+<p><li><strong>Showcase</strong> the full spectrum of products / services available in a specific market / industry / area</li></p>
+<p><li><strong>Organize</strong> and make it easy to find specialty resources, tools in a certain sector</li></p>
+<p><li><strong>Catalog</strong> and organize people in a certain sector</li></p>
+<p><li><strong>Illustrate</strong>, explain, what is otherwise difficult to understand / learn</li></p>
+<p><li><strong>Support</strong> learning about a specific topic</li></p>
+<p><li><strong>Investigate</strong>, on-demand, specific issues that affects society or selected groups of people</li></p>
+<p><li><strong>Collect </strong>and organize success stories on a specific topic</li></p>
+<p><li><strong>Create templates</strong>, checklists that facilitate and guide the execution of specific tasks</li></p>
+<p><li><strong>Gather best examples</strong> of products, tools or solutions that solve a specific problem / interest / issue</li></ol></p>
+<p>&nbsp;</p><br /><br /><br />
+<h2>Differences between Info Startup and Tech Startup</h2></p>
+<p><img alt="new-journalist-differences-info-tech-startup_ss_57940030_230.jpg" src="http://d3sdoylwcs36el.cloudfront.net/new-journalist-differences-info-tech-startup_ss_57940030_230.jpg" width="230" height="276" /></p>
+<p><br /><img alt="New-journalist-table-screenshot_480-2.jpg" src="http://d3sdoylwcs36el.cloudfront.net/New-journalist-table-screenshot_480-2.jpg" width="480" height="203" /></p>
+<p><br /><strong>This comparative list</strong> of traits is consciously provocatory. </p>
+<p>I am aware that not all tech startups have the key traits I attribute to them. There are many tech <a target="_blank" href="http://www.masternewmedia.org/bootstrapping-startups-guide/">startups who are bootstrapped</a>, who have started from the genuine idea of solving a problem and who care at least as much about contributing something of value than about how much money they are going to make.</p>
+<p>Still, most of the startup articles, events, newsletters and people that I know have very strong affinity with the traits listed in the left column (typical tech startup). For what I can see, the vast majority have not even ever questioned their idea of startup, nor have ever seriously considered the possibility of alternatives such as the one I have been describing here.</p>
+<p><strong>The fact that</strong> many of these people have a strong technical background and have their core skills and credentials built around technical expertise may somehow explain their natural tendency to look at how to create a new engine more than at how to solve a real problem in a way that is simple for others to use.</p>
+<p>On the other hand, founders of "<em>info startups</em>" are much less likely to be engineers, skilled coders and programmers, and include individuals who have a much more humanistic and socially-motivated approach to life and business.</p>
+<p>&nbsp;</p><br /><br /><br />
+<h2>Key Traits of Information Startup</h2></p>
+<p><img alt="new-journalist-key-traits_ss_115587238_260.jpg" src="http://d3sdoylwcs36el.cloudfront.net/new-journalist-key-traits_ss_115587238_260.jpg" width="260" height="187" /></p>
+<p><strong>Most people presented</strong> for the first time with the idea of an information-startup have a hard-time taking this idea seriously as much as conceiving any way of making such type of company economically sustainable. </p>
+<p>The reason for this, is that when talking about an information-based business we naturally default to think about the typical news and information businesses that are normally associated with newspapers and magazines of different kinds. And given the crisis that these information publishing organizations have seen in the last decade, both in terms of readership as well as in terms of revenues, it is only normal to question how would it be possible for an organization that wants to survive by organizing information to effectively do so.</p>
+<p><strong>If we were</strong> in fact to build more information-based organizations like the typical online newspaper or magazine, we would be surely digging our grave with our own hands. </p>
+<p>To create a sustainable information-based startup, or what I would call a new type of entrepreneurial journalistic venture, the key ingredients that I deem absolutely indispensable are:</p>
+<p><br /><ol><li><strong>Vertical, very specific focus</strong><br />
+This is where the value is: high specificity driven by use and application</li></p>
+<p><li><strong>High reputation, credibility</strong><br />
+Nothing to do with high follower counts, traffic or other similar indicators<br />
+based on testimonials from reputable individuals</li></p>
+<p><li><strong>Experience, competence, credits</strong><br />
+Verifiable experience, track record, achievements, published works</li></p>
+<p><li><strong>Organization - Ease of access</strong><br />
+Intuitive content structure and navigation</li></p>
+<p><li><strong>Completeness</strong><br />
+Comprehensiveness</li></p>
+<p><li><strong>Replicability</strong><br />
+Opportunity to copy, download, replicate and re-use data</li></p>
+<p><li><strong>Customization</strong><br />
+Ability to provide users with options to customize views, data, results<br />
+to their specific needs</li></p>
+<p><li><strong>Real-Time</strong><br />
+Multiple channels updates -  via email newsletter, alerts, <a target="_blank" href="http://en.wikipedia.org/wiki/RSS">RSS</a>, SMS, etc.</li></p>
+<p><li><strong>Advice - Opinion</strong><br />
+Strong viewpoint - useful advice and opinion</li></p>
+<p><li><strong>Information Designed</strong><br />
+Fanatically curated for maximum legibility and comprehension</li></p>
+<p><li><strong>Experience Designed</strong><br />
+Utilizes innovative and effective new content delivery formats<br />
+moves beyond linear text page</li></p>
+<p><li><strong>Conversational</strong><br />
+Crowd-open - open to contributions and dialogue with audience</li></p>
+<p><li><strong>Transparent</strong><br />
+Full disclosure of interests, partnerships and other critical influencing factors and bias</li></p>
+<p><li><strong>Connected</strong><br />
+Capable of detecting and interpreting trends and relevant info from other fields</li></ol></p>
+<p>&nbsp;</p><br /><br /><br />
+<h2>Examples of Information Startups</h2></p>
+<p><img alt="new-journalist-info-startup-examples_ss_3446224_220.jpg" src="http://d3sdoylwcs36el.cloudfront.net/new-journalist-info-startup-examples_ss_3446224_220.jpg" width="220" height="311" /></p>
+<p><strong>Here is a</strong> brief list of companies that have chosen to focus on organizing and providing better access to a specific set of information resources, satisfying a very specific need.</p>
+<p>All of these companies are characterized by these traits:</p>
+<p><br /><blockquote>a) <strong>company/service based on</strong> organizing some existing information, news or resources not on developing a special technology, software or app</p>
+<p>b) <strong>has paid / premium</strong> offering or other forms of revenue-making</p>
+<p>c) <strong>they are successful</strong> at doing what they do</p>
+<p><br /><ol><li><a target="_blank" href="http://www.lynda.com/">Lynda</a><br />
+Online video tutorials and training<br />
+BM: subscriptions, direct sales</li></p>
+<p><br /><li><a target="_blank" href="http://dish.andrewsullivan.com/">Daily Dish</a><br />
+Curated stories by <a target="_blank" href="http://twitter.com/sullydish">Andrew Sullivan</a><br />
+BM: paid subscriptions</li></p>
+<p><br /><li><a target="_blank" href="http://www.techmeme.com">Techmeme</a> (and sister sites <a target="_blank" href="http://mediagazer.com/">Mediagazer</a>, <a target="_blank" href="http://www.wesmirch.com/">WeSmirch</a>, <a target="_blank" href="http://www.memeorandum.com/">Memeorandum</a>)<br />
+Curated topical newshub on silicon valley industry<br />
+BM: sponsored stories</li></p>
+<p><br /><li><a target="_blank" href="http://www.crunchbase.com/">Crunchbase</a><br />
+Free editable database of technology startups, companies, people, and investors<br />
+BM: advertising</li></p>
+<p><br /><li><a target="_blank" href="http://www.businessmodelgeneration.com/canvas">Business Model Canvas</a><br />
+Strategic analysis and simulation of variables at play in defining a startup biz model<br />
+BM: subscriptions, book, workshops</li></p>
+<p><br /><li><a target="_blank" href="http://trendwatching.com/">Trendwatching</a><br />
+Understanding the new consumer<br />
+BM: premium reports</li></p>
+<p><br /><li><a target="_blank" href="http://my.copyblogger.com/teaching-sells/">Teaching Sells</a><br />
+Web course on building, marketing, and running a learning-based online business<br />
+BM: subscriptions</li></p>
+<p><br /><li><a target="_blank" href="http://webconferencing-test.com/">Online Meeting Software Review</a><br />
+Web-conferencing comparing service<br />
+BM: subscriptions</li></p>
+<p><br /><li><a target="_blank" href="http://www.useronboard.com/">User Onboarding</a><br />
+Curated best practices for digital product adoption<br />
+BM: N/A yet</li></p>
+<p><br /><li><a target="_blank" href="http://www.happyinbox.co/">Happy Inbox</a><br />
+Discover great newsletters<br />
+BM: N/A yet</li></p>
+<p><br /><li><a target="_blank" href="http://www.fest300.com/worlds-best-festivals">Fest300</a><br />
+The world best festivals<br />
+BM: co-promotion, pay-to-be-included/featured</li></p>
+<p><br /><li><a target="_blank" href="http://www.hyperink.com/books/Quicklet">Quicklets</a><br />
+Expert sidekick to the world's most popular books<br />
+BM: direct sales</li></p>
+<p><br /><li><a target="_blank" href="http://www.ebscohost.com/ebooks/browse-collections">EBSCO Collections</a><br />
+Find the perfect collection of subject-specific titles for your library</li></p>
+<p><br /><li><a target="_blank" href="http://feedmyapp.com/">Feedmyapp</a>, <a target="_blank" href="http://betalist.com/">BetaList</a><br />
+Select and review new interesting startups<br />
+BM: advertising, pay-to-be-included/featured</li></p>
+<p><br /><li><a target="_blank" href="http://www.smartbrief.com/">SmartBrief</a><br />
+Industry specific curated daily news<br />
+BM: advertising, sponsorships</li></p>
+<p><br /><li><a target="_blank" href="http://reallygoodemails.com/">ReallyGoodEmails</a><br />
+A curated collection of best-examples of email messages<br />
+BM: sponsorship</li></p>
+<p><br /><li><a target="_blank" href="http://www.appsumo.com/sumo-jerky/">AppSumo</a><br />
+Special product offers for business startups<br />
+BM: direct sales of third-party products</li></p>
+<p><br /><li><a target="_blank" href="http://www.trendhunter.com/">TrendHunter</a><br />
+Find better ideas faster<br />
+BM: advertising, reports, workshops</li></p>
+<p><br /><li><a target="_blank" href="http://www.free-codecs.com/">Free-Codecs</a><br />
+Download codecs and multimedia tools<br />
+BM: advertising</li></p>
+<p><br /><li><a target="_blank" href="http://www.oldversion.com/">OldVersion</a><br />
+Old versions of popular software tools<br />
+BM: advertising</li></p>
+<p><br /><li><a target="_blank" href="http://www.journalismfestival.com/">International Journalism Festival - Perugia</a><br />
+Past, present and future of news<br />
+BM: sponsorships, crowdfunding</li></p>
+<p><br /><li><a target="_blank" href="http://www.ted.com/tedx/events">TED Events</a><br />
+Ideas worth spreading<br />
+BM: event tickets, sponsorships</li></ol></blockquote></p>
+<p>&nbsp;</p><br /><br /><br />
+<h2>Conclusions</h2></p>
+<p><strong>Technology startups are</strong> generally characterized by new small companies trying to code and app or service, while looking for venture capital and for the fastest opportunity to get out of the way to sell their baby to a richer family.</p>
+<p>While there are many shades of such tech startups, the great majority of these seem to be characterized by a strong pool of tech skills, great desire and enthusiasm to create something, and the motivating idea of being able to make lots of money by selling out their startup to a big company.</p>
+<p><strong>But there are also</strong> other options, especially for those who are not:</p>
+<p><br /><blockquote>1. <strong>highly tech</strong> skilled</p>
+<p>2. <strong>code programming</strong> experts</p>
+<p>3. <strong>after the money</strong> as their first objective</blockquote> </p>
+<p><br /><strong>But who are instead</strong> strongly characterized by:</p>
+<p><br /><blockquote>a) <strong>strong competence</strong> / experience / interest for a specific sector</p>
+<p>b) <strong>research</strong>, vetting (crap detection), evaluation skills</p>
+<p>c) <strong>writing</strong> and presentation abilities</p>
+<p>d)<strong> interest to share</strong> - help others - create something truly useful</blockquote> </p>
+<p><br />For these individuals, journalists or subject-matter experts of some kind, there is indeed a great opportunity to create something of value that is quite different from what we have seen so far.</p>
+<p><strong>The new space is</strong> simply defined by anyone who wants to comprehensively organize and curate the most valuable information resources on a specific topic, and is characterized by organizations that are capable of building a sustainable / profitable business while creating something that has not just market, but also social value of some kind.</p>
+<p>&nbsp;</p>
+<span class="photocredit">Originally written and curated by <a target="_blank" href="http://plus.google.com/+RobinGood-MasterNewMedia/">Robin Good</a> and first published on <a target="_blank" href="http://www.MasterNewMedia.org">MasterNewMedia</a> on Tuesday April 15th 2014 as <a target="_blank" href="http://www.masternewmedia.org/journalism-information-startup/">The New Journalist Is An Information Startup</a>.</span></p>
+<p><br /><br /><br />
+<span class="photocredit">Photo credits:</span><br />
+<span class="photocredit">Information Entrepreneurs - <a target="_blank" href="http://www.shutterstock.com/pic-165692771/stock-photo-image-of-businesswoman-pushing-icon-on-media-screen.html">Businesswoman by Shutterstock</a></span><br />
+<span class="photocredit">What Is Exactly an Info Startup - <a target="_blank" href="http://www.shutterstock.com/pic-76075978/stock-photo-x-ray-hand-many-others-x-ray-images-in-my-portfolio.html">X-ray hand by Shutterstock</a></span><br />
+<span class="photocredit">Differences between Info and Tech Startup - <a target="_blank" href="http://www.shutterstock.com/pic-57940030/stock-photo-high-resolution-d-red-symbol-isolated-on-white-background.html">3D symbol by Shutterstock</a></span><br />
+<span class="photocredit">Key Traits of Info Startup - <a target="_blank" href="http://www.shutterstock.com/pic-115587238/stock-vector-bar-code-vector-illustration.html">Bar code by Shutterstock</a></span><br />
+<span class="photocredit">Examples of Info Startups - <a target="_blank" href="http://www.shutterstock.com/pic-3446224/stock-photo-a-concept-of-future-technology-with-a-man-holding-a-electronic-newspaper.html">Future technology by Shutterstock</a></span><br />
+</p>
+<span class="a"><b>Robin Good - </b></a></div>
+
+<div class="full_width below_text">
+<div id="below_text_affiliate">&nbsp;</div>
+
+
+<div id="below_text_ad">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EN AR 2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-1185284300475723"
+     data-ad-slot="4780895544"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="fmBot">
+<!-- FM Medium Rectangle Zone -->
+<script type='text/javascript' src='https://static.fmpub.net/zone/1695'></script>
+<!-- FM Medium Rectangle Zone -->
+</div>
+
+<div id="conv_tags">&nbsp;</div>
+
+<span id="rel_signal">&nbsp;</span>
+
+
+<div class="full_width_comments">
+<a name="comments"></a><span class="commTitle">Readers' Comments &nbsp; &nbsp;</span><br />
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_url ="https://www.masternewmedia.org/journalism-information-startup/";
+var disqus_title = "The New Journalist Is An Information Startup";
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript=tx1">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<script type="text/javascript">
+
+var delay='10';  // How many seconds before window opens
+setTimeout('get_js()',delay*1000);
+			  
+function get_js() {
+
+var NewScript2=document.createElement('script');
+NewScript2.src="http://robingood.disqus.com/embed.js";
+document.body.appendChild(NewScript2);
+
+}
+</script>
+
+
+
+</div>
+  
+<div class="full_width">
+<div class="langBot"><table><tr><td><li id="imagePR" class="sprite"><a href="javascript:void();" OnCLick="javascript:window.print();" OnMouseOver="this.className='cursorimg'"></a></li></td><td><a class="cursor" href="javascript:void();" OnCLick="javascript:window.print();">Print this article</a><nobr>| <a class="languages" title="italiano" href="http://it.masternewmedia.org/nuovo-giornalismo-information-startup">IT</a></nobr/></td></tr></table></div>
+</div>
+
+
+
+
+<div class="full_width slideBox" id="relatedbox">&nbsp;</div>
+	
+<script type="text/javascript">
+ 
+    load_file();
+    $j=jQuery.noConflict();
+    $j(document).ready(function($) {
+	  var currentInstance = 0;
+  var InstanceWidth = 500;
+  var InstanceHeight = 150;
+  var styleInstances = $('#relatedbox');
+  var countInstances = styleInstances.length;
+  
+  
+  styleInstances.wrapAll('<div id="stylesWrapper"></div>').css({'width' : InstanceWidth,'height' : InstanceHeight,'float' : 'left'});
+  $('#stylesWrapper').css('width', InstanceWidth * countInstances);
+  $('#stylePile').css('overflow', 'hidden');
+
+	
+ 	var $floatingbox = $('#relatedbox');
+ 
+	  var bodyY = parseInt($('#rel_signal').offset().top) - 1000;
+	 
+		var rDivY = $(window).height() - 170;
+		var rDivX = $(window).width();
+		var trigger = 0;
+	   
+	  $(window).scroll(function () {
+		var scrollY = $(window).scrollTop();
+		
+		if ( scrollY > bodyY && trigger == 0 ) {
+			
+				$floatingbox.css({ position: 'fixed',  left: rDivX,  top: rDivY,});	     
+				$('#relatedbox').animate({marginLeft: "-500px"}, 1000 );
+				trigger=1;
+
+			} 
+			
+			if ( scrollY < bodyY && trigger == 1){
+			
+				$floatingbox.css({ position: 'fixed',  left: rDivX,  top: rDivY,});	     
+				$('#relatedbox').animate({marginLeft: "500px"}, 1000 );
+				trigger=0;
+				
+			}
+			  
+		
+       });
+  
+  	
+  
+	
+  });
+  
+	
+</script>
+
+
+<div class="full_width comments">
+<div class="full_width posted_by"><span class="date">posted by <span class="a"><b>Robin Good</b></span> on <b>Tuesday, April 15</b> 2014, updated on <b>Tuesday, May 5</b> 2015</span></div>
+
+<div class="full_width">
+<a name="search_this_site"></a><br /><br />
+
+<!-- Search Google -->
+
+					  <div>
+					<table><form action="https://www.masternewmedia.org/newsearchEN.html" id="cse-search-box"><tr><td><h2 class="pref">Search this site for more with&nbsp;</h2></td><td> <li id="imageGW"><a href="https://www.google.com/" target="_blank"></a></li></td><td><input type="hidden" name="cx" value="partner-pub-1185284300475723:2w4e64-lxu6" />
+						<input type="hidden" name="cof" value="FORID:9" />
+						<input type="hidden" name="ie" value="ISO-8859-1" />
+						<input type="text" name="q" size="12" />
+						<input type="submit" name="sa" value="Search" />
+					</td></tr></table>
+					</form>
+					  </div>
+
+
+<!-- Search Google -->
+
+					<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+</div>
+
+
+<p>&nbsp;</p>
+<div class="full_width"><span class="photocredit">16862</span></div>
+</div>
+</div><!-- end main -->
+
+
+
+
+
+
+<div id="leftV3">
+<!-- FM Skyscraper Zone -->
+<script type='text/javascript' src='http://static.fmpub.net/zone/2050'></script>
+<!-- FM Skyscraper Zone -->
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-1185284300475723";
+google_ad_width =160;
+google_ad_height = 90;
+google_ad_format = "160x90_0ads_al";
+
+get_string = document.location;         
+if(get_string=='http://www.masternewmedia.org/2005/02/07/how_to_make_money_with.htm'){MG_channel ="4143847887";}
+if(get_string=='http://www.masternewmedia.org/news/2006/04/12/slow_computer_speed_up_your.htm'){MG_channel ="1890262012";}
+if(get_string=='http://www.masternewmedia.org/video_internet_television/download-video-from-youtube/web-based-video-downloading-services-guide-20070527.htm'){MG_channel ="9544232111";}
+if(get_string=='http://www.masternewmedia.org/image-editing/image-editing-tools/free-online-image-editing-tools-20070218.htm'){MG_channel ="5377029022";}
+if(get_string=='http://www.masternewmedia.org/news/2007/03/18/remote_pc_access_tools_a.htm'){MG_channel ="1395381463";}
+if(get_string=='http://www.masternewmedia.org/news/2006/05/02/what_is_a_screencast.htm'){MG_channel ="0848949545";}
+if(get_string=='http://www.masternewmedia.org/news/2005/05/24/screen_sharing_tools_the_best.htm'){MG_channel ="1225843380";}
+if(get_string=='http://www.masternewmedia.org/video_internet_television/encoding-converting-video/video-conversion-and-encoding-tools-20070411.htm'){MG_channel ="8608535060";}
+if(get_string=='http://www.masternewmedia.org/news/2007/05/20/webbased_instant_messengers_a_miniguide.htm'){MG_channel ="7082992428";}
+if(get_string=='http://www.masternewmedia.org/news/2005/06/20/best_web_presentation_tools_june.htm'){MG_channel ="9203445532";}
+if(get_string=='http://www.masternewmedia.org/how_to_select_perfectly_matching_color_combinations/'){MG_channel ="4097404748";}
+if(get_string=='http://www.masternewmedia.org/best_video_conferencing_tools_that_anyone_can/'){MG_channel ="0891001605";}
+if(get_string=='http://www.masternewmedia.org/video_internet_television/live-video-streaming/broadcast-yourself-live-with-video-streaming-20070424.htm'){MG_channel ="0025923220";}
+if(get_string=='http://www.masternewmedia.org/news/2007/02/06/call_the_world_for_free.htm'){MG_channel ="9144563696";}
+if(get_string=='http://www.masternewmedia.org/video_internet_television/video-stock-footage/free-online-resources-stock-video-footage-20070828.htm'){MG_channel ="1299861744";}
+if(get_string=='http://www.masternewmedia.org/free-screencasting-tools-guide-to-the-best-tools-to-record-your-screen/'){MG_channel ="9857388632";}
+if(get_string=='http://www.masternewmedia.org/independent_publishing/blogging-how-to-blog/guide-to-publishing-first-blog-20071104.htm'){MG_channel ="5882348646";}
+if(get_string=='http://www.masternewmedia.org/news/2008/06/12/how_to_convert_mod_video.htm'){MG_channel ="3781865767";}
+if(get_string=='http://www.masternewmedia.org/news/2008/08/11/how_to_send_files_larger/'){MG_channel ="8854345137";}
+if(get_string=='http://www.masternewmedia.org/online-plagiarism-how-to-detect-fight-and-report-the-unlicensed-republication-of-your-content/'){MG_channel ="3134105304";}
+if(get_string=='http://www.masternewmedia.org/audio_music_publishing/music-for-video/where-to-find-free-music-for-video-and-podcasts-20070722.htm'){MG_channel ="0034259337";}
+if(get_string=='http://www.masternewmedia.org/ning-alternatives-guide-to-the-best-social-networking-platforms-and-online-group-services/'){MG_channel ="6461786229";}
+if(get_string=='http://www.masternewmedia.org/call_the_world_for_free/'){MG_channel ="5262203991";}
+if(get_string=='http://www.masternewmedia.org/professional-video-editing-software-comparison-guide-to-the-best-video-editors/'){MG_channel ="2422966696";}
+if(get_string=='http://www.masternewmedia.org/news/2006/11/25/video_publishing_online_where_to.htm'){MG_channel ="3997770501";}
+if(get_string=='http://www.masternewmedia.org/news/2006/12/08/tsunami_video_key_video.htm'){MG_channel ="5005265165";}
+if(get_string=='http://www.masternewmedia.org/2005/01/02/full_tsunami_video_footage_pictures.htm'){MG_channel ="1463243580";}
+if(get_string=='http://www.masternewmedia.org/best-video-conferencing-tools-free-low-cost-one-to-one-and-multi-party-solutions-mini-guide/'){MG_channel ="3384039919";}
+if(get_string=='http://www.masternewmedia.org/free-picture-editing-software-best-downloadable-image-editors-mini-guide/'){MG_channel ="6923833832";}
+
+google_ad_type = "text";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000088";
+google_color_url = "000088";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br /><br />
+
+
+<br /><br />
+
+
+
+<div id="miniguides"></div>
+<div style="margin-top:20px;">&nbsp;</div>
+<br /><br /><br /><br />
+<div class="sidebox"><span class="whitePart">Be</span> your own <span class="whitePart">boss in:</span></div>
+<ul class="catList">
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/online_collaboration.htm"><b>Online Collaboration</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/independent_publishing.htm"><b>Independent Publishing</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/learning_educational_technologies.htm"><b>Learning - Educational Technologies</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/content_delivery_and_distribution.htm"><b>Content Delivery And Distribution</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/online_marketing.htm"><b>Online Marketing</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/search_tools_and_technologies.htm"><b>Search Tools and Technologies</b></a></li>
+</ul>
+
+<div class="sidebox"><span class="whitePart">Learn more</span> about <span class="whitePart">:</span></div>
+<ul class="catList">
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/privacy_and_security.htm"><b>Privacy and Security</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/intellectual_property.htm"><b>Intellectual Property</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/technical_support.htm"><b>Technical Support</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/audio_music_publishing.htm"><b>Audio & Music Publishing</b></a></li>
+
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/video_internet_television.htm"><b>Video - Internet Television</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/xevents.htm"><b>X-Events</b></a></li>
+
+
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/social_networking.htm"><b>Social Networking</b></a></li>
+
+
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/presentation.htm"><b>Presentation</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/digital_imaging.htm"><b>Digital Imaging</b></a></li>
+
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/information_design_and_data_visualization.htm"><b>Information Design and Data Visualization</b></a></li>
+<li class="catList"><a class="blacknav" href="http://www.masternewmedia.org/interface_and_navigation_design.htm"><b>Interface and Navigation Design</b></a></li>
+
+</ul>
+
+
+
+ 
+
+<script type="text/javascript">
+document.getElementById('abovetitle').innerHTML="<hr />";
+</script><script type="text/javascript">
+document.getElementById('top_gad').innerHTML=sA;
+document.getElementById('below_text_gad').innerHTML=sA3;
+</script><script type="text/javascript">
+document.getElementById('gads_middle').innerHTML=sA2;
+</script>
+
+
+<div>
+
+<h2 class="title">Curated by</h2>
+<img src="https://lh4.googleusercontent.com/-X78NaYPkvXI/AAAAAAAAAAI/AAAAAAAABtA/W2Vx3uhGsH0/s48-c-k/photo.jpg" border="0" width="48" height="48" style="float: left; margin: 0px 10px 10px 0px;clear:both;">
+<br />
+<span class="photocredit" style="width:100%;clear:both;display:table;">
+<a rel="author" href="https://plus.google.com/102342575415454158358">
++Robin Good</a> Publisher <br /><br />MasterNewMedia.org <br />New media explorer<br />
+Communication designer
+</span>
+</div>
+
+</div><!-- end left -->
+</div><!-- end encloser -->
+
+<div id="rightV3">
+<div class="sidebar">
+
+<!-- FM Wide Skyscraper 1 Zone -->
+<script type='text/javascript' src='http://static.fmpub.net/zone/2050'></script>
+<!--<a href="https://content-curation-from-a-to-z-robingood.eventbrite.it" rel="nofollow" target="new">
+    <img src="http://www.masternewmedia.org/_includes/banners/uploaded/Content-Curation-A-Z-Skyscraper-MNM-EN-20150324.png">
+    </img></a>-->
+<!-- FM Wide Skyscraper 1 Zone -->
+
+<p>&nbsp;</p>
+
+
+
+<div id="#fbbox" style="width:160px;height:420px;">&nbsp;</div>
+
+<div class="sideboxBL"> <a class="white" href="http://www.masternewmedia.org/index.html">Robin Good Latest News</a></div>
+<form method="post" action="http://www.aweber.com/scripts/addlead.pl" target="_new">
+<p class="smallest">
+Subscribe to MasterNewMedia<br />Feature Articles and Reports<br /><br />
+<table><tr><td><li id="imageRSS"><a href="http://feeds.feedburner.com/Robin-Good-Latest-News" target="_blank"></a></li></td><td>RSS Feed</td></tr></table><br />
+<span id="imageNL" width="14" height="18"> &nbsp; &nbsp; </span>&nbsp; Mail<br />
+<input name="EMAIL" maxlength="255" type="text" size="15" value=""><br>
+<input name="FEEDID" type="hidden" value="77960">
+<input type="submit" value="Subscribe me!">
+<span style="padding-top:3px;margin-top:3px;">Powered by <a href="http://www.feedblitz.com">FeedBlitz</a></span></p></form></div>
+
+<p>&nbsp;</p>
+
+<div class="sideboxBL"> <a class="white" href="http://www.masternewmedia.org/index.html">POP Newsletter</a></div>
+
+<table cellpadding=0 cellspacing=0 border=0><tr><Td style="padding-top:6px;">
+<form method="post" action="http://www.aweber.com/scripts/addlead.pl" target="_new">
+<p class="smallest">
+Robin Good's Newsletter for Professional Online Publishers
+
+<span style="padding-bottom:3px;font-size:3px;margin-bottom:3px;line-height:6px;">&nbsp;<br /><br /></span>
+</p>
+
+<input type="hidden" name="meta_web_form_id" value="93153162">
+<input type="hidden" name="meta_split_id" value="">
+<input type="hidden" name="unit" value="pop-newsletter">
+<input type="hidden" name="redirect" value="http://216.92.198.27/pop/newsletter-confirmation-success-page.htm" id="redirect_7e49409128bccac8bc9a686fe5c4e03b">
+<input type="hidden" name="meta_redirect_onlist" value="">
+<input type="hidden" name="meta_adtracking" value="MasterNewMedia">
+<input type="hidden" name="meta_message" value="1">
+<input type="hidden" name="meta_required" value="from">
+<input type="hidden" name="meta_forward_vars" value="0">
+<table>
+
+<tr><td>Name:</td><td><input type="text" name="name" value="" size="12"></td></tr>
+<tr><td>Email:</td><td><input type="text" name="from" value="" size="12"></td></tr>
+<tr><td colspan="2" align="right"><input type="submit" name="submit" value="Subscribe me!"></td></tr>
+</table>
+
+</form>
+</td></tr></table>
+
+
+<p>&nbsp;</p>
+<!-- cutoff -->
+</div>
+
+</div><!-- end right -->
+
+<div class="footerLimit"> &nbsp; </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-81475-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 
+'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
+</script>
+
+<!-- ln news page -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- FM Tracking Pixel -->
+<script type='text/javascript' src='https://static.fmpub.net/site/masternewmedia'></script>
+<!-- FM Tracking Pixel -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-6bP212S0D-WA6"
+};
+</script>
+<script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="https://pixel.quantserve.com/pixel/p-6bP212S0D-WA6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">tyntVariables = {"ap":"Link: "};</script> <script type="text/javascript" src="https://tcr.tynt.com/javascripts/Tracer.js?user=dVFHfouPar36MQadbiUzgI&amp;s=130"></script>
+<a title="Real Time Web Analytics" href="https://getclicky.com/209674" rel="nofollow"><img alt="Real Time Web Analytics" src="https://static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script src="https://static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">clicky.init(209674);</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="https://in.getclicky.com/209674ns.gif" /></p></noscript>
+<script type="text/javascript" src="_includes/ga_social_tracking.js"></script>
+</body>
+</html>
